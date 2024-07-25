@@ -1,0 +1,9 @@
+body {
+    font-family: niveau-grotesk, sans-serif;
+    background-image: url(../img/3.jpg);
+}
+
+.content__title {
+    text-align: center;
+    font-size: 8vw;
+}
